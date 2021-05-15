@@ -1,0 +1,3 @@
+﻿  HangManCPP.cpp
+C:\Docs\Pursuits\Resume\TargetToC++\cnc\HangManCPP\HangManCPP\HangManCPP.cpp(227,21): warning C4101: 'iGuessAttempts': unreferenced local variable
+  HangManCPP.vcxproj -> C:\Docs\Pursuits\Resume\TargetToC++\cnc\HangManCPP\Debug\HangManCPP.exe
